@@ -4,3 +4,8 @@
 - Make an ML/AI Model that can understand the code and suggest a better way to write it and optimize it
 - Make a ranking and recommendation system with the whole system to help use get the best experience with our app 
 - Try to make something helpful to other developers in the industry and help them make reliable code and systems with the help of out snippets
+
+
+# Kubernetes 
+- I think we can make our own container orchestration systems and we can represent it in a brwoser compiler or any other application
+
